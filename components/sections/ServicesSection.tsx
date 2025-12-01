@@ -15,39 +15,39 @@ import {
 const services = [
   {
     icon: Brain,
-    title: 'AI Model Development',
-    description: 'Custom machine learning models trained on your data, delivering insights and automation tailored to your business.',
-    features: ['Neural Networks', 'Deep Learning', 'NLP Processing']
+    title: 'AI-Powered Automations',
+    description: 'Streamline your workflow with smart AI solutions, no coding required. I design automations and tools that save time, reduce repetitive work, and give actionable insights tailored to your business',
+    features: ['AI workflows for everyday tasks', 'Data insights without complexity', 'AI Assistants that improve productivity']
   },
   {
     icon: Workflow,
     title: 'Process Automation',
-    description: 'End-to-end workflow automation that eliminates repetitive tasks and scales your operations exponentially.',
-    features: ['RPA Integration', 'API Orchestration', 'Smart Workflows']
+    description: 'Simplify your workflows and save time with smart automations. I set up systems that handle repetitive tasks so you can focus on what really matters.',
+    features: ['Easy workflow setups', 'Automations for everyday tasks', 'Tools that scale with your needs']
   },
   {
     icon: Bot,
     title: 'Intelligent Chatbots',
-    description: 'AI-powered conversational agents that understand context, learn from interactions, and provide human-like support.',
+    description: 'Create friendly AI assistants that handle questions and support your customers around the clock. Simple to set up, yet effective.',
     features: ['24/7 Support', 'Multi-Language', 'Context Aware']
   },
   {
     icon: BarChart3,
     title: 'Predictive Analytics',
-    description: 'Harness the power of AI to forecast trends, optimize decisions, and stay ahead of the competition.',
-    features: ['Data Mining', 'Forecasting', 'Real-time Insights']
+    description: 'Turn your data into insights you can actually use. I help you spot trends and make informed decisions without complex setups.',
+    features: ['Understand your data easily', 'Spot trends and patterns', 'Get insights in real time']
   },
   {
     icon: Code2,
     title: 'Custom AI Solutions',
-    description: 'Bespoke AI systems designed from the ground up to solve your unique business challenges.',
-    features: ['Full Stack', 'Cloud Native', 'Scalable Architecture']
+    description: 'Build AI tools tailored to your unique needs. Practical, straightforward, and designed to help you get results fast.',
+    features: ['Solutions that fit your workflow', 'Cloud-friendly and lightweight', 'Scales as your needs grow']
   },
   {
     icon: Target,
     title: 'AI Consulting',
-    description: 'Strategic guidance on AI adoption, implementation roadmaps, and technology selection.',
-    features: ['Strategy Design', 'Tech Audits', 'ROI Planning']
+    description: 'Get simple, actionable guidance for using AI in your business. I help you plan what to automate, where to start, and how to get the most value.',
+    features: ['Practical AI strategy', 'Step-by-step guidance', 'Focused on ROI and impact']
   }
 ];
 
